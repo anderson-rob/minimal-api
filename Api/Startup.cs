@@ -7,7 +7,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
-using MinimalApi;
 using MinimalApi.Dominio.Entidades;
 using MinimalApi.Dominio.Enuns;
 using MinimalApi.Dominio.Interfaces;
